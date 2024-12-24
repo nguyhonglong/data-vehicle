@@ -1,0 +1,4 @@
+model: yolov8n  # Chọn YOLOv8 nhỏ (yolov8n), trung bình (yolov8m), lớn (yolov8l), hoặc rất lớn (yolov8x)
+data: dataset.yaml  # Đường dẫn tới file cấu hình dataset
+epochs: 50         # Số epoch
+img_size: 640      # Kích thước ảnh huấn luyện

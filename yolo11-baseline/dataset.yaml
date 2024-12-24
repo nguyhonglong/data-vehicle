@@ -1,0 +1,7 @@
+train: D:/yolo11-baseline/datasets/dataset/train/images
+val: D:/yolo11-baseline/datasets/dataset/val/images
+
+names:
+  0: car
+  1: motorcycle
+  2: truck
